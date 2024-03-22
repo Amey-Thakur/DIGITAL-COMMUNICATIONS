@@ -65,7 +65,7 @@
  
  - DC [Assignment - 2](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-2/DC_Homework-2.pdf)
  
- - DC [Assignment - 3]()
+ - DC [Assignment - 3](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-3/DC_Homework-3.pdf)
 
 
 ---
@@ -73,3 +73,5 @@
 <p align="center"> <b> 👉🏻 Subject as a part of the 4th Semester of MEng @ University of Windsor 👈🏻 <b> </p>
  
 <p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+
+
