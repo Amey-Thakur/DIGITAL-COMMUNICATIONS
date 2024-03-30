@@ -63,15 +63,14 @@
 
  - DC [Assignment - 1](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-1/DC_HW-1_110107589.pdf)
  
- - DC [Assignment - 2](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-2/DC_Homework-2.pdf)
+ - DC [Assignment - 2](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-2/DC_Homework-2-683073.pdf)
  
  - DC [Assignment - 3](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-3/DC_Homework-3.pdf)
 
+ - DC [Assignment - 4](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-4/DC_Homework-4.pdf)
 
 ---
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 4th Semester of MEng @ University of Windsor 👈🏻 <b> </p>
  
 <p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
-
-
