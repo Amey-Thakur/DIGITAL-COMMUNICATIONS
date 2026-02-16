@@ -161,7 +161,7 @@ Technical solutions and system models developed to implement and simulate digita
 </div>
 
 > [!TIP]
-> **From Theory to Practice**: Digital communication is not just about transmitting data; it is about designing systems that are mathematically robust and practically viable. These projects bridge the gap between abstract equations and real-world engineering, demonstrating how modulation techniques like **QAM** and **OQPSK** effectively manage bandwidth and noise to ensure reliable connectivity.
+> **Bridging Theory and Practice**: These projects translate abstract communication theories into executable models using **MATLAB** and **Simulink**. By simulating complex modulation schemes like **QAM** and **OQPSK**, we validate system performance under varying channel conditions, ensuring that mathematical rigor translates into reliable, real-world engineering solutions.
 
 | # | Project | Topics | Source Code | Report | Marks |
 | :-: | :--- | :--- | :---: | :---: | :---: |
