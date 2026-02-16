@@ -161,7 +161,7 @@ Technical solutions and system models developed to implement and simulate digita
 </div>
 
 > [!TIP]
-> **Bridging Theory and Practice**: These projects translate abstract communication theories into executable models using **MATLAB** and **Simulink**. By simulating complex modulation schemes like **QAM** and **OQPSK**, we validate system performance under varying channel conditions, ensuring that mathematical rigor translates into reliable, real-world engineering solutions.
+> **Simulation Strategy**: To fully validate system robustness, use these models to simulate adverse signal conditions. By progressively reducing the **Signal-to-Noise Ratio (SNR)** and observing the resulting distortion in **constellation diagrams**, you gain a rigorous, practical understanding of the error thresholds for each modulation scheme.
 
 | # | Project | Topics | Source Code | Report | Marks |
 | :-: | :--- | :--- | :---: | :---: | :---: |
