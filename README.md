@@ -1,77 +1,241 @@
-# DIGITAL-COMMUNICATIONS
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 ELEC8900: DC [SEMESTER IV]
+  <!-- Logo -->
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/main/university-of-windsor-logo.png" alt="University of Windsor" width="400"/>
 
----
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Course%20Syllabus.pdf)**
- 
- - [X] **[Supplemental](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Supplemental)**
- 
- - [X] **[Lecture Notes](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Lecture%20Notes)**
- 
- - [X] **[Tutorials](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Tutorials)**
+  <!-- Title -->
+  # Digital Communications
 
----
+  <!-- Subtitle -->
+  ### ELEC 8900 · Semester IV · MEng Computer Engineering
 
-## Projects
+  <!-- Badges -->
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
+  [![Program](https://img.shields.io/badge/Program-MEng%20Computer%20Engineering-FFCE00.svg)](https://www.uwindsor.ca/engineering/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
- - Task 1 - Basics of MATLAB and Simulink
+  <!-- Short Description -->
+  **A comprehensive academic archive for Digital Communications (ELEC 8900), documenting technical proficiency in digital modulation techniques, signal processing, and communication system design within the Master of Engineering program.**
 
-   - [MATLAB Onramp Certificate](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/MATLAB%20Onramp%20certificate.pdf)
+  ---
 
-   - [Simulink Onramp Certificate](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/Simulink%20Onramp%20certificate.pdf)
+  <!-- Navigation Links -->
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
- 
- - Task 2 - Pulse Amplitude Modulation (PAM)
-
-   - Binary Pulse Amplitude Modulation (BPAM)
-
-     - [Report](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20BPAM%20System%20Design%20%26%20Subtask%20-%201%20%5B110107589%5D.pdf)
-
-     - Task 2 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2BPAM_22_110107589.slx) | Subtask 1 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/subtask1_22_110107589.slx)
-
-   - M-ary pulse amplitude modulation (MPAM)
-
-     - [Report](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20MPAM%20System%20Design%20%26%20Subtask%20-%202%20%5B110107589%5D.pdf)
-
-     - Task 2 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2mPAM_22_110107589.slx) | Subtask 2 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/subtask2_22_110107589.slx)
- 
- 
- - Task 3 - Phase Shift Keying (PSK)
-
-   - [Report](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/Task%203%20-%20Phase%20Shift%20Keying%20%5B110107589%5D.pdf)
-
-   - Task 3 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/task3.slx) | Subtask 1 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/subtask1_110107589.slx) | Subtask 2 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/subtask2_110107589.slx)
-
- 
- - Task 4 - Quadrature Amplitude Modulation (QAM)
-
-   - [Report](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(QAM)%20%5B110107589%5D.pdf)
-
-   - Task 4 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4.slx) | Subtask 1 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4_subtask_1.slx)
- 
- 
- - Task 5 - Offset Quadrature Phase Shift Keying (OQPSK)
-
-   - [Report](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/task-5.pdf)
-
-   - Task 5 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/System_Design_OQPSK.slx) | Subtask 1 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/Task5_Subtask_1.slx)
-
-
-## Assignments
-
- - DC [Assignment - 1](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-1/DC_HW-1_110107589.pdf)
- 
- - DC [Assignment - 2](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-2/DC_Homework-2-683073.pdf)
- 
- - DC [Assignment - 3](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-3/DC_Homework-3.pdf)
-
- - DC [Assignment - 4](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Homework/Homework-4/DC_Homework-4.pdf)
+</div>
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 4th Semester of MEng @ University of Windsor 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
- 
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Digital Communications (ELEC 8900) is a specialized graduate-level course in the Master of Engineering (MEng) program at the University of Windsor. This course focuses on the fundamental principles and advanced techniques of digital communication systems, covering signal analysis, modulation schemes, and system performance evaluation.
+
+### Course Objectives
+
+The curriculum encompasses several key communication domains:
+- **Signal Analysis**: Understanding the frequency domain representation of signals and systems using Fourier Transform.
+- **Digital Modulation**: Mastering techniques such as Pulse Amplitude Modulation (PAM), Phase Shift Keying (PSK), and Quadrature Amplitude Modulation (QAM).
+- **System Design**: Designing and simulating communication systems using MATLAB and Simulink.
+- **Performance Evaluation**: Analyzing the performance of communication systems in the presence of noise and interference.
+- **Advanced Techniques**: Exploring Offset Quadrature Phase Shift Keying (OQPSK) and other bandwidth-efficient modulation schemes.
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, course assessments, and technical implementations compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As I progress in my career, I recognize that the foundations of digital communications remain essential for solving complex engineering problems and explaining them with technical precision. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental communication principles
+- **Academic Documentation**: To authentically document my learning journey through Digital Communications
+- **Community Contribution**: To share these resources with students and learners who may benefit from them
+
+> [!NOTE]
+> All materials were created, compiled, and organized by me during the Winter 2024 semester as part of my MEng degree requirements.
+
+---
+
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
+
+### Reference Books
+This collection includes **comprehensive reference materials** covering all major topics:
+
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [Digital Communications - John G. Proakis & Masoud Salehi](Reference%20Books/Digital%20Communications%20-%20John%20G.%20Proakis%20Masoud%20Salehi.pdf) | Comprehensive guide to digital communication systems and theory. |
+| 2 | [Digital Communication Systems - Simon Haykin](Reference%20Books/Digital%20Communication%20Systems%20-%20Simon%20Haykin.pdf) | Fundamental concepts and practical applications of digital communications. |
+
+---
+
+### Personal Preparation
+Academic roadmap and administrative records for the Winter 2024 session:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Course Syllabus](Course%20Syllabus.pdf) | Official course outcomes and assessment specifications |
+| 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Winter%202024.pdf) | Enrollment record and pedagogical timeline |
+| 3 | [Final Grades](DC%20Grades.pdf) | Official record of academic performance |
+
+---
+
+<!-- =========================================================================================
+                                     ASSIGNMENTS SECTION
+     ========================================================================================= -->
+### Assignments
+
+A granular record of analytical assessments and theoretical problem-solving conducted during the Winter 2024 session.
+
+| # | Assignment | Description | Report |
+| :-: | :--- | :--- | :---: |
+| 1 | **Assignment 1** | Fundamental concepts of digital communications. | [View](Homework/Homework-1/DC_HW-1_110107589.pdf) |
+| 2 | **Assignment 2** | Signal processing and modulation techniques. | [View](Homework/Homework-2/DC_Homework-2-683073.pdf) |
+| 3 | **Assignment 3** | Advanced modulation and system analysis. | [View](Homework/Homework-3/DC_Homework-3.pdf) |
+| 4 | **Assignment 4** | Comprehensive review of course topics. | [View](Homework/Homework-4/DC_Homework-4.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SIMULINK PROJECTS SECTION
+     ========================================================================================= -->
+## Simulink Projects
+
+Technical solutions and system models developed to implement and simulate digital communication systems using MATLAB and Simulink.
+
+<div align="center">
+
+[![Projects](https://img.shields.io/badge/Projects-5-yellow.svg)](Project/) [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Simulink-orange.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+</div>
+
+> [!TIP]
+> Digital Communications is not merely the transmission of data; it is the **robust design of systems to ensure information integrity**. These technical implementations focus on **model-based design and simulation**, providing a reliable framework for the rigorous validation of communication architectures.
+
+| # | Project | Topics | Source Code | Report |
+| :-: | :--- | :--- | :---: | :---: |
+| 1 | **Task 1** | Basics of MATLAB and Simulink | — | [Certificates](Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/) |
+| 2 | **Task 2 (BPAM)** | Binary Pulse Amplitude Modulation | [Simulink](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2BPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20BPAM%20System%20Design%20%26%20Subtask%20-%201%20%5B110107589%5D.pdf) |
+| 3 | **Task 2 (MPAM)** | M-ary Pulse Amplitude Modulation | [Simulink](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2mPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20MPAM%20System%20Design%20%26%20Subtask%20-%202%20%5B110107589%5D.pdf) |
+| 4 | **Task 3** | Phase Shift Keying (PSK) | [Simulink](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/task3.slx) | [View](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/Task%203%20-%20Phase%20Shift%20Keying%20%5B110107589%5D.pdf) |
+| 5 | **Task 4** | Quadrature Amplitude Modulation (QAM) | [Simulink](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4.slx) | [View](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(QAM)%20%5B110107589%5D.pdf) |
+| 6 | **Task 5** | Offset Quadrature Phase Shift Keying (OQPSK) | [Simulink](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/System_Design_OQPSK.slx) | [View](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/task-5.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     LECTURE NOTES SECTION
+     ========================================================================================= -->
+## Lecture Notes
+
+A comprehensive archival log documenting pedagogical discourse, including slides and technical resources.
+
+| # | Resource | Description |
+| :-: | :--- | :--- |
+| 1 | **Introduction** | [View](Lecture%20Notes/01%20-%20Introduction.pdf) |
+| 2 | **Review of Signals and Systems** | [View](Lecture%20Notes/02%20-%20Review%20of%20Signals%20and%20Systems.pdf) |
+| 3 | **Analog-to-Digital Conversion** | [View](Lecture%20Notes/03%20-%20Analog-to-Digital%20Conversion.pdf) |
+| 4 | **Digital Data Transmission** | [View](Lecture%20Notes/04%20-%20Digital%20Data%20Transmission.pdf) |
+| 5 | **Synchronization** | [View](Lecture%20Notes/05%20-%20Synchronization.pdf) |
+| 6 | **Intro to Information Theory** | [View](Lecture%20Notes/06%20-%20Intro%20to%20Information%20Theory.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+> **[Official Digital Communications Syllabus](Course%20Syllabus.pdf)**  
+> Complete graduate-level syllabus document for the **Winter 2024** session, including detailed course outcomes, theoretical modules, and assessment criteria for Digital Communications.
+
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Windsor academic portal, as curriculum specifications for Digital Communications may undergo instructor-led adaptations across different sessions.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as templates for Simulink modeling, reference materials for digital modulation theory, and examples of scholarly documentation. All content is organized to support self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references, technical benchmarks for system design, or supplementary instructional content in digital communications. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The simulations and system implementations may provide insights into scholarly communication patterns and graduate-level system documentation.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Master of Engineering in Computer Engineering (2023-2024)  
+**Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario  
+**Faculty**: [Faculty of Engineering](https://www.uwindsor.ca/engineering/)
+
+This repository represents a comprehensive collection of study materials, reference books, technical assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Digital Communications.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
+
+### Acknowledgments
+
+Grateful acknowledgment to **Dr. Ahmed Hamdi Sakr** for his exceptional instruction in Digital Communications, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of digital systems, modulation techniques, and detailed analysis, made the subject both accessible and engaging. His dedication to academic excellence in the field of communications engineering is gratefully acknowledged.
+
+Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  [↑ Back to Top](#digital-communications)
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+
+  **Computer Engineering (M.Eng) - University of Windsor**
+
+  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+
+</div>
