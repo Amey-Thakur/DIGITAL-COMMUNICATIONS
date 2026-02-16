@@ -35,7 +35,7 @@
 
      - [Report](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20MPAM%20System%20Design%20%26%20Subtask%20-%202%20%5B110107589%5D.pdf)
 
-     - Task 2 -[Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2mPAM_22_110107589.slx) | Subtask 2 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/subtask2_22_110107589.slx)
+     - Task 2 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2mPAM_22_110107589.slx) | Subtask 2 - [Simulink](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/blob/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/subtask2_22_110107589.slx)
  
  
  - Task 3 - Phase Shift Keying (PSK)
@@ -73,5 +73,5 @@
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 4th Semester of MEng @ University of Windsor 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
  
