@@ -1,0 +1,32 @@
+# Digital Communications - Academic Repository
+# Specialized .gitignore for Digital Communications scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# MATLAB and Simulink temporary files
+*.asv
+slprj/
+*.autosave
+
+# Word Processing / Document artifacts
+~$*
+*.bak
+*.sav
+*.old
