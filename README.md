@@ -205,14 +205,10 @@ A comprehensive archival log documenting pedagogical discourse across six module
 
 The following examinations represent key assessment milestones in Digital Communications, documenting technical proficiency through mid-term evaluations and the final summative assessment.
 
-| # | Examination Milestone | Marks | Weightage |
+| # | Examination Milestone | Marks | Archival Deliverables |
 | :-: | :--- | :---: | :---: |
-| 1 | **Midterm Exam 1** | 13 / 20 | 65 % |
-| 2 | **Midterm Exam 2** | 18 / 25 | 72 % |
-| - | **Total Grade** | **78.89 / 100** | **79 %** |
-
-**Relevant Materials:**
-*   [Midterm 2 Revision Notes](Notes/DC_Midterm-2%20Revision.pdf)
+| 1 | **Midterm Exam 1** | 13 / 20 | — |
+| 2 | **Midterm Exam 2** | 18 / 25 | [Midterm 2 Revision Notes](Notes/DC_Midterm-2%20Revision.pdf) |
 
 ---
 
