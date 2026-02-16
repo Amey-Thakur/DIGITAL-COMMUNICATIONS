@@ -161,7 +161,7 @@ Technical solutions and system models developed to implement and simulate digita
 </div>
 
 > [!TIP]
-> Digital Communications is not merely the transmission of data; it is the **robust design of systems to ensure information integrity**. These technical implementations focus on **model-based design and simulation**, providing a reliable framework for the rigorous validation of communication architectures.
+> **From Theory to Practice**: Digital communication is not just about transmitting data; it is about designing systems that are mathematically robust and practically viable. These projects bridge the gap between abstract equations and real-world engineering, demonstrating how modulation techniques like **QAM** and **OQPSK** effectively manage bandwidth and noise to ensure reliable connectivity.
 
 | # | Project | Topics | Source Code | Report | Marks |
 | :-: | :--- | :--- | :---: | :---: | :---: |
