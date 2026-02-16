@@ -74,8 +74,10 @@ This collection includes **comprehensive reference materials** covering all majo
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Digital Communications - John G. Proakis & Masoud Salehi](Reference%20Books/Digital%20Communications%20-%20John%20G.%20Proakis%20Masoud%20Salehi.pdf) | Comprehensive guide to digital communication systems and theory. |
+| 1 | [Digital Communications - John G. Proakis & Masoud Salehi](Reference%20Books/Digital%20Communications%20-%20John%20G.%20Proakis%20and%20Masoud%20Salehi.pdf) | The definitive guide to digital communication systems and theory. |
 | 2 | [Digital Communication Systems - Simon Haykin](Reference%20Books/Digital%20Communication%20Systems%20-%20Simon%20Haykin.pdf) | Fundamental concepts and practical applications of digital communications. |
+| 3 | [Modern Digital and Analog Communication Systems - B.P. Lathi](Reference%20Books/Modern%20Digital%20and%20Analog%20Communication%20Systems%20-%20B.P.%20Lathi.pdf) | Integrated approach to analog and digital transmission principles. |
+| 4 | [Wireless Communications (Chapters 1-9)](Reference%20Books/Wireless%20Communications%20-%20Chapters%201-9.pdf) | Foundations of wireless channel modeling and system design. |
 
 ---
 
