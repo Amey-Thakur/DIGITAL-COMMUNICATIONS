@@ -136,12 +136,12 @@ Technical solutions and system models developed to implement and simulate digita
 
 | # | Project | Topics | Source Code | Report | Marks |
 | :-: | :--- | :--- | :---: | :---: | :---: |
-| 1 | **Task 1** | Basics of MATLAB and Simulink | — | [Certificates](Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/) | — |
-| 2 | **Task 2 (BPAM)** | Binary Pulse Amplitude Modulation | [Simulink](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2BPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20BPAM%20System%20Design%20%26%20Subtask%20-%201%20%5B110107589%5D.pdf) | — |
-| 3 | **Task 2 (MPAM)** | M-ary Pulse Amplitude Modulation | [Simulink](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2mPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20MPAM%20System%20Design%20%26%20Subtask%20-%202%20%5B110107589%5D.pdf) | — |
-| 4 | **Task 3** | Phase Shift Keying (PSK) | [Simulink](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/task3.slx) | [View](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/Task%203%20-%20Phase%20Shift%20Keying%20%5B110107589%5D.pdf) | — |
-| 5 | **Task 4** | Quadrature Amplitude Modulation (QAM) | [Simulink](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4.slx) | [View](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(QAM)%20%5B110107589%5D.pdf) | — |
-| 6 | **Task 5** | Offset Quadrature Phase Shift Keying (OQPSK) | [Simulink](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/System_Design_OQPSK.slx) | [View](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/task-5.pdf) | — |
+| 1 | **Task 1** | Basics of MATLAB and Simulink | — | [Certificates](Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/) | 10 / 10 |
+| 2 | **Task 2 (BPAM)** | Binary Pulse Amplitude Modulation | [Simulink](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2BPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20BPAM%20System%20Design%20%26%20Subtask%20-%201%20%5B110107589%5D.pdf) | 5 / 5 |
+| 3 | **Task 2 (MPAM)** | M-ary Pulse Amplitude Modulation | [Simulink](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2mPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20MPAM%20System%20Design%20%26%20Subtask%20-%202%20%5B110107589%5D.pdf) | 5 / 5 |
+| 4 | **Task 3** | Phase Shift Keying (PSK) | [Simulink](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/task3.slx) | [View](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/Task%203%20-%20Phase%20Shift%20Keying%20%5B110107589%5D.pdf) | 10 / 10 |
+| 5 | **Task 4** | Quadrature Amplitude Modulation (QAM) | [Simulink](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4.slx) | [View](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(QAM)%20%5B110107589%5D.pdf) | 10 / 10 |
+| 6 | **Task 5** | Offset Quadrature Phase Shift Keying (OQPSK) | [Simulink](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/System_Design_OQPSK.slx) | [View](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/task-5.pdf) | 10 / 10 |
 
 ---
 
