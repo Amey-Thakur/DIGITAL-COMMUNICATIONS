@@ -150,7 +150,10 @@ Technical solutions and system models developed to implement and simulate digita
      ========================================================================================= -->
 ## Lecture Notes
 
-A comprehensive archival log documenting pedagogical discourse, including slides and technical resources.
+A comprehensive archival log documenting pedagogical discourse across six modules, including weekly slides and technical resources for the Winter 2024 session.
+
+> [!TIP]
+> **Digital Communications is not merely the transmission of data; it is the robust design of systems to ensure information integrity.** These technical implementations focus on model-based design and simulation, providing a reliable framework for the rigorous validation of communication architectures.
 
 | # | Resource | Description |
 | :-: | :--- | :--- |
