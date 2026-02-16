@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -88,7 +88,6 @@ Academic roadmap and administrative records for the Winter 2024 session:
 |:-:|:---|:---|
 | 1 | [Course Syllabus](Course%20Syllabus.pdf) | Official course outcomes and assessment specifications |
 | 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Winter%202024.pdf) | Enrollment record and pedagogical timeline |
-| 3 | [Final Grades](DC%20Grades.pdf) | Official record of academic performance |
 
 ---
 
@@ -150,6 +149,19 @@ A comprehensive archival log documenting pedagogical discourse, including slides
 | 4 | **Digital Data Transmission** | [View](Lecture%20Notes/04%20-%20Digital%20Data%20Transmission.pdf) |
 | 5 | **Synchronization** | [View](Lecture%20Notes/05%20-%20Synchronization.pdf) |
 | 6 | **Intro to Information Theory** | [View](Lecture%20Notes/06%20-%20Intro%20to%20Information%20Theory.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     GRADES SECTION
+     ========================================================================================= -->
+## Grades
+
+The graded performance record documents academic achievement across various assessment categories including assignments, midterm evaluations, and the final examination.
+
+| # | Assessment Category | Marks | Archival Record |
+| :---: | :--- | :---: | :---: |
+| 1 | Final Grades | 79 / 100 (79%) | [View Grades](DC%20Grades.pdf) |
 
 ---
 
@@ -226,7 +238,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   <!-- Footer Navigation -->
   [↑ Back to Top](#digital-communications)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
