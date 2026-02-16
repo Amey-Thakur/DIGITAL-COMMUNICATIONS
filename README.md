@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Supplemental](#supplemental) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -88,6 +88,17 @@ Academic roadmap and administrative records for the Winter 2024 session:
 |:-:|:---|:---|
 | 1 | [Course Syllabus](Course%20Syllabus.pdf) | Official course outcomes and assessment specifications |
 | 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Winter%202024.pdf) | Enrollment record and pedagogical timeline |
+
+---
+
+### Supplemental
+Additional resources focusing on key mathematical concepts and reference tables.
+
+| # | Resource | Description |
+| :-: | :--- | :--- |
+| 1 | [But what is the Fourier Transform?](Supplemental/But%20what%20is%20the%20Fourier%20Transform%20-%20A%20visual%20introduction.txt) | A visual introduction to the Fourier Transform (3Blue1Brown). |
+| 2 | [CT Fourier Transform Pairs Table](Supplemental/CT%20Fourier%20Transform%20Pairs%20Table.pdf) | Reference table for Continuous-Time Fourier Transform pairs. |
+| 3 | [Q-function](Supplemental/Q-function.pdf) | Mathematical definition and properties of the Q-function. |
 
 ---
 
@@ -238,7 +249,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   <!-- Footer Navigation -->
   [↑ Back to Top](#digital-communications)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Supplemental](#supplemental) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
