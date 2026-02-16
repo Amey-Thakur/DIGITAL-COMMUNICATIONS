@@ -119,6 +119,35 @@ A granular record of analytical assessments and theoretical problem-solving cond
 ---
 
 <!-- =========================================================================================
+                                     CERTIFICATIONS SECTION
+     ========================================================================================= -->
+### Certifications
+
+Industry-recognized credentials in technical computing and model-based design:
+
+<div align="center">
+
+<h3>Matlab Onramp</h3>
+<i>Core concepts of MATLAB programming and data analysis.</i>
+<br><br>
+<img src="Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/MATLAB%20Onramp%20certificate.png" width="90%" alt="MATLAB Onramp Certificate">
+
+</div>
+<br>
+
+<div align="center">
+
+<h3>Simulink Onramp</h3>
+<i>Fundamental techniques for dynamic system simulation and modeling.</i>
+<br><br>
+<img src="Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/Simulink%20Onramp%20certificate.png" width="90%" alt="Simulink Onramp Certificate">
+
+</div>
+<br>
+
+---
+
+<!-- =========================================================================================
                                      SIMULINK PROJECTS SECTION
      ========================================================================================= -->
 ## Simulink Projects
