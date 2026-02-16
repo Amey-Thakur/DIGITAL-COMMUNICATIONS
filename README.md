@@ -98,12 +98,12 @@ Academic roadmap and administrative records for the Winter 2024 session:
 
 A granular record of analytical assessments and theoretical problem-solving conducted during the Winter 2024 session.
 
-| # | Assignment | Description | Report |
+| # | Assignment | Description | Marks |
 | :-: | :--- | :--- | :---: |
-| 1 | **Assignment 1** | Fundamental concepts of digital communications. | [View](Homework/Homework-1/DC_HW-1_110107589.pdf) |
-| 2 | **Assignment 2** | Signal processing and modulation techniques. | [View](Homework/Homework-2/DC_Homework-2-683073.pdf) |
-| 3 | **Assignment 3** | Advanced modulation and system analysis. | [View](Homework/Homework-3/DC_Homework-3.pdf) |
-| 4 | **Assignment 4** | Comprehensive review of course topics. | [View](Homework/Homework-4/DC_Homework-4.pdf) |
+| 1 | [**Assignment 1**](Homework/Homework-1/DC_HW-1_110107589.pdf) | Fundamental concepts of digital communications. | 17.5 / 23 |
+| 2 | [**Assignment 2**](Homework/Homework-2/DC_Homework-2.pdf) | Signal processing and modulation techniques. | 22 / 26 |
+| 3 | [**Assignment 3**](Homework/Homework-3/DC_Homework-3.pdf) | Advanced modulation and system analysis. | 10 / 10 |
+| 4 | [**Assignment 4**](Homework/Homework-4/DC_Homework-4.pdf) | Comprehensive review of course topics. | 20 / 20 |
 
 ---
 
