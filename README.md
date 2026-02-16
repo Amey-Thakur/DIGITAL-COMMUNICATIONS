@@ -155,8 +155,8 @@ A comprehensive archival log documenting pedagogical discourse across six module
 > [!TIP]
 > **Digital Communications is not merely the transmission of data; it is the robust design of systems to ensure information integrity.** These technical implementations focus on model-based design and simulation, providing a reliable framework for the rigorous validation of communication architectures.
 
-| # | Resource | Description |
-| :-: | :--- | :--- |
+| # | Topic | Lecture Slides |
+| :-: | :--- | :---: |
 | 1 | **Introduction** | [View](Lecture%20Notes/01%20-%20Introduction.pdf) |
 | 2 | **Review of Signals and Systems** | [View](Lecture%20Notes/02%20-%20Review%20of%20Signals%20and%20Systems.pdf) |
 | 3 | **Analog-to-Digital Conversion** | [View](Lecture%20Notes/03%20-%20Analog-to-Digital%20Conversion.pdf) |
