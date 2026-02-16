@@ -170,7 +170,7 @@ The graded performance record documents academic achievement across various asse
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official Digital Communications Syllabus](Course%20Syllabus.pdf)**  
+> **[Official ELEC 8900 Syllabus](Course%20Syllabus.pdf)**  
 > Complete graduate-level syllabus document for the **Winter 2024** session, including detailed course outcomes, theoretical modules, and assessment criteria for Digital Communications.
 
 > [!IMPORTANT]
