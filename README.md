@@ -175,23 +175,7 @@ Technical solutions and system models developed to implement and simulate digita
 
 ---
 
-<!-- =========================================================================================
-                                     EXAMINATIONS SECTION
-     ========================================================================================= -->
-## Examinations
 
-The following examinations represent key assessment milestones in Digital Communications, documenting technical proficiency through mid-term evaluations and the final summative assessment.
-
-| # | Examination Milestone | Marks | Weightage |
-| :-: | :--- | :---: | :---: |
-| 1 | **Midterm Exam 1** | 13 / 20 | 65 % |
-| 2 | **Midterm Exam 2** | 18 / 25 | 72 % |
-| - | **Total Grade** | **78.89 / 100** | **79 %** |
-
-**Relevant Materials:**
-*   [Midterm 2 Revision Notes](Notes/DC_Midterm-2%20Revision.pdf)
-
----
 
 <!-- =========================================================================================
                                      LECTURE NOTES SECTION
@@ -211,6 +195,24 @@ A comprehensive archival log documenting pedagogical discourse across six module
 | 4 | **Digital Data Transmission** | [View](Lecture%20Notes/04%20-%20Digital%20Data%20Transmission.pdf) |
 | 5 | **Synchronization Techniques** | [View](Lecture%20Notes/05%20-%20Synchronization.pdf) |
 | 6 | **Introduction to Information Theory** | [View](Lecture%20Notes/06%20-%20Intro%20to%20Information%20Theory.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     EXAMINATIONS SECTION
+     ========================================================================================= -->
+## Examinations
+
+The following examinations represent key assessment milestones in Digital Communications, documenting technical proficiency through mid-term evaluations and the final summative assessment.
+
+| # | Examination Milestone | Marks | Weightage |
+| :-: | :--- | :---: | :---: |
+| 1 | **Midterm Exam 1** | 13 / 20 | 65 % |
+| 2 | **Midterm Exam 2** | 18 / 25 | 72 % |
+| - | **Total Grade** | **78.89 / 100** | **79 %** |
+
+**Relevant Materials:**
+*   [Midterm 2 Revision Notes](Notes/DC_Midterm-2%20Revision.pdf)
 
 ---
 
