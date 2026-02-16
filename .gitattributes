@@ -21,8 +21,8 @@ SECURITY.md text eol=lf
 *.ico binary
 
 # MATLAB Simulink - Force Language Recognition
-*.slx binary linguist-language=MATLAB
-*.p binary linguist-language=MATLAB
+*.slx binary linguist-language=MATLAB linguist-detectable=true
+*.p binary linguist-language=MATLAB linguist-detectable=true
 *.mat binary
 
 # Academic and Office Formats
