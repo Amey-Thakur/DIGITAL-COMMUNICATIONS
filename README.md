@@ -105,7 +105,7 @@ Additional resources focusing on key mathematical concepts and reference tables.
 <!-- =========================================================================================
                                      ASSIGNMENTS SECTION
      ========================================================================================= -->
-## Assignments
+### Assignments
 
 A granular record of analytical assessments and theoretical problem-solving conducted during the Winter 2024 session.
 
