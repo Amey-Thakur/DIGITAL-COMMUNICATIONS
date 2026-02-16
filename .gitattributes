@@ -20,8 +20,9 @@ SECURITY.md text eol=lf
 *.pdf binary
 *.ico binary
 
-# MATLAB Simulink
-*.slx binary
+# MATLAB Simulink - Force Language Recognition
+*.slx binary linguist-language=MATLAB
+*.p binary linguist-language=MATLAB
 *.mat binary
 
 # Academic and Office Formats
