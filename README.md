@@ -157,12 +157,12 @@ A comprehensive archival log documenting pedagogical discourse across six module
 
 | # | Topic | Lecture Slides |
 | :-: | :--- | :---: |
-| 1 | **Introduction** | [View](Lecture%20Notes/01%20-%20Introduction.pdf) |
+| 1 | **Introduction to Digital Communication Systems** | [View](Lecture%20Notes/01%20-%20Introduction.pdf) |
 | 2 | **Review of Signals and Systems** | [View](Lecture%20Notes/02%20-%20Review%20of%20Signals%20and%20Systems.pdf) |
-| 3 | **Analog-to-Digital Conversion** | [View](Lecture%20Notes/03%20-%20Analog-to-Digital%20Conversion.pdf) |
+| 3 | **Analog-to-Digital Conversion (ADC)** | [View](Lecture%20Notes/03%20-%20Analog-to-Digital%20Conversion.pdf) |
 | 4 | **Digital Data Transmission** | [View](Lecture%20Notes/04%20-%20Digital%20Data%20Transmission.pdf) |
-| 5 | **Synchronization** | [View](Lecture%20Notes/05%20-%20Synchronization.pdf) |
-| 6 | **Intro to Information Theory** | [View](Lecture%20Notes/06%20-%20Intro%20to%20Information%20Theory.pdf) |
+| 5 | **Synchronization Techniques** | [View](Lecture%20Notes/05%20-%20Synchronization.pdf) |
+| 6 | **Introduction to Information Theory** | [View](Lecture%20Notes/06%20-%20Intro%20to%20Information%20Theory.pdf) |
 
 ---
 
