@@ -172,6 +172,25 @@ Technical solutions and system models developed to implement and simulate digita
 | 5 | **Task 4** | Quadrature Amplitude Modulation (QAM) | [Task 4](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4.slx) <br> [Subtask 1](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4_subtask_1.slx) <br> [MAT File](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/qam16signal.mat) | [View](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(QAM)%20%5B110107589%5D.pdf) | 10 / 10 |
 | 6 | **Task 5** | Offset Quadrature Phase Shift Keying (OQPSK) | [Task 5](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/System_Design_OQPSK.slx) <br> [Subtask 1](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/Task5_Subtask_1.slx) <br> [Data File](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/oqpskdata.p) | [View](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/task-5.pdf) | 10 / 10 |
 
+
+---
+
+<!-- =========================================================================================
+                                     EXAMINATIONS SECTION
+     ========================================================================================= -->
+## Examinations
+
+The following examinations represent key assessment milestones in Digital Communications, documenting technical proficiency through mid-term evaluations and the final summative assessment.
+
+| # | Examination Milestone | Marks | Weightage |
+| :-: | :--- | :---: | :---: |
+| 1 | **Midterm Exam 1** | 13 / 20 | 65 % |
+| 2 | **Midterm Exam 2** | 18 / 25 | 72 % |
+| - | **Total Grade** | **78.89 / 100** | **79 %** |
+
+**Relevant Materials:**
+*   [Midterm 2 Revision Notes](Notes/DC_Midterm-2%20Revision.pdf)
+
 ---
 
 <!-- =========================================================================================
