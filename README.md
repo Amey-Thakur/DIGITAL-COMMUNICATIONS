@@ -284,7 +284,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to **Dr. Ahmed Hamdi Sakr** for his exceptional instruction in Digital Communications, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of digital systems, modulation techniques, and detailed analysis, made the subject both accessible and engaging. His dedication to academic excellence in the field of communications engineering is gratefully acknowledged.
+Grateful acknowledgment to **Dr. Ahmed Hamdi Sakr** for his exceptional instruction in Digital Communications, which played a pivotal role in shaping my analytical understanding of the subject. His clear and disciplined approach, along with his thorough explanation of digital systems, modulation techniques, and detailed analysis, made the subject both accessible and engaging. His distinguished expertise and commitment to academic excellence in **Digital Communications** are sincerely appreciated.
 
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
