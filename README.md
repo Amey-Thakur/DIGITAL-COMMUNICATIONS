@@ -205,11 +205,11 @@ A comprehensive archival log documenting pedagogical discourse across six module
  
  | # | Tutorial | Focus Area | Question Set | Step-by-Step Solution |
  | :-: | :--- | :--- | :---: | :---: |
- | 1 | **Tutorial 1** | Signals, Fourier Transform, and System Characterization | [View](Tutorials/tutorial-1.pdf) | [View](Tutorials/tutorial-1_solutions.pdf) |
- | 2 | **Tutorial 2** | Analog-to-Digital Conversion and Quantization | [View](Tutorials/tutorial-2.pdf) | [View](Tutorials/tutorial-2_solutions.pdf) |
- | 3 | **Tutorial 3** | Pulse Amplitude Modulation (PAM) and Line Coding | [View](Tutorials/tutorial-3.pdf) | [View](Tutorials/tutorial-3_solutions.pdf) |
- | 4 | **Tutorial 4** | Advanced Modulation (PSK, QAM) and Error Performance | [View](Tutorials/tutorial-4.pdf) | [View](Tutorials/tutorial-4_solutions.pdf) |
- | 5 | **Practice Set** | Comprehensive Problem Suite (ADC to Modulation) | — | [View](Tutorials/tutorial-5_practice_problems%2Bsolutions.pdf) |
+ | 1 | **Tutorial 1** | Analog-to-Digital Conversion | [View](Tutorials/tutorial-1.pdf) | [View](Tutorials/tutorial-1_solutions.pdf) |
+ | 2 | **Tutorial 2** | Digital Data Transmission | [View](Tutorials/tutorial-2.pdf) | [View](Tutorials/tutorial-2_solutions.pdf) |
+ | 3 | **Tutorial 3** | Carrier and Symbol Synchronization | [View](Tutorials/tutorial-3.pdf) | [View](Tutorials/tutorial-3_solutions.pdf) |
+ | 4 | **Tutorial 4** | Introduction to Information Theory | [View](Tutorials/tutorial-4.pdf) | [View](Tutorials/tutorial-4_solutions.pdf) |
+ | 5 | **Practice Set** | Error-Control Coding | — | [View](Tutorials/tutorial-5_practice_problems%2Bsolutions.pdf) |
 
 ---
 
