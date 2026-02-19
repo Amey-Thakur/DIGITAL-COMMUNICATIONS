@@ -60,7 +60,7 @@ As I progress in my career, I recognize that the foundations of digital communic
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
 > [!NOTE]
-> All materials were created, compiled, and organized by me during the Winter 2024 semester as part of my MEng degree requirements.
+> All materials were created, compiled, and organized by me during the **Winter 2024** semester as part of my MEng degree requirements.
 
 ---
 
@@ -82,7 +82,7 @@ This collection includes **comprehensive reference materials** covering all majo
 ---
 
 ### Personal Preparation
-Academic roadmap and administrative records for the Winter 2024 session:
+Academic roadmap and administrative records for the **Winter 2024** session:
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -107,7 +107,7 @@ Additional resources focusing on key mathematical concepts and reference tables.
      ========================================================================================= -->
 ### Assignments
 
-A granular record of analytical assessments and theoretical problem-solving conducted during the Winter 2024 session.
+A granular record of analytical assessments and theoretical problem-solving conducted during the **Winter 2024** session.
 
 | # | Assignment | Description | Questions | Feedback / Solution | Marks |
 | :-: | :--- | :--- | :---: | :---: | :---: |
@@ -182,7 +182,7 @@ Technical solutions and system models developed to implement and simulate digita
      ========================================================================================= -->
 ## Lecture Notes
 
-A comprehensive archival log documenting pedagogical discourse across six modules, including weekly slides for the Winter 2024 session.
+A comprehensive archival log documenting pedagogical discourse across six modules, including weekly slides for the **Winter 2024** session.
 
 > [!TIP]
 > **Digital Communications is not merely the transmission of data; it is the robust design of systems to ensure information integrity.** These technical implementations focus on model-based design and simulation, providing a reliable framework for the rigorous validation of communication architectures.
