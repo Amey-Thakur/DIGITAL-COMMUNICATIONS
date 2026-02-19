@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Supplemental](#supplemental) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Certifications](#certifications) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Supplemental](#supplemental) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Certifications](#certifications) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Tutorials](#tutorials) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -166,11 +166,11 @@ Technical solutions and system models developed to implement and simulate digita
 | # | Project | Topics | Source Code | Report | Marks |
 | :-: | :--- | :--- | :---: | :---: | :---: |
 | 1 | **Task 1** | Basics of MATLAB and Simulink | [Task 1](Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/task-1.pdf) | [Matlab](Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/MATLAB%20Onramp%20certificate.pdf) <br> [Simulink](Project/Task%201%20-%20Basics%20of%20MATLAB%20and%20Simulink/Simulink%20Onramp%20certificate.pdf) | 10 / 10 |
-| 2 | **Task 2** | Binary Pulse Amplitude Modulation (BPAM) | [Subtask 1](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/subtask1_22_110107589.slx) <br> [Subtask 2](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2BPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20BPAM%20System%20Design%20%26%20Subtask%20-%201%20%5B110107589%5D.pdf) | 5 / 5 |
-| 3 | **Task 2** | M-ary Pulse Amplitude Modulation (MPAM) | [Subtask 1](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/subtask2_22_110107589.slx) <br> [Subtask 2](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/task2mPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20(PAM)/Task%202%20-%20MPAM%20System%20Design%20%26%20Subtask%20-%202%20%5B110107589%5D.pdf) | 5 / 5 |
-| 4 | **Task 3** | Phase Shift Keying (PSK) | [Task 3](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/task3.slx) <br> [Subtask 1](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/subtask1_110107589.slx) <br> [Subtask 2](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/subtask2_110107589.slx) | [View](Project/Task%203%20-%20Phase%20Shift%20Keying%20(PSK)/Task%203%20-%20Phase%20Shift%20Keying%20%5B110107589%5D.pdf) | 10 / 10 |
-| 5 | **Task 4** | Quadrature Amplitude Modulation (QAM) | [Task 4](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4.slx) <br> [Subtask 1](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/task_4_subtask_1.slx) <br> [MAT File](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/qam16signal.mat) | [View](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(MQAM)/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20(QAM)%20%5B110107589%5D.pdf) | 10 / 10 |
-| 6 | **Task 5** | Offset Quadrature Phase Shift Keying (OQPSK) | [Task 5](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/System_Design_OQPSK.slx) <br> [Subtask 1](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/Task5_Subtask_1.slx) <br> [Data File](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/oqpskdata.p) | [View](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20(OQPSK)/task-5.pdf) | 10 / 10 |
+| 2 | **Task 2** | Binary Pulse Amplitude Modulation (BPAM) | [Subtask 1](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29/subtask1_22_110107589.slx) <br> [Subtask 2](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29/task2BPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29/Task%202%20-%20BPAM%20System%20Design%20%26%20Subtask%20-%201%20%5B110107589%5D.pdf) | 5 / 5 |
+| 3 | **Task 2** | M-ary Pulse Amplitude Modulation (MPAM) | [Subtask 1](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29/subtask2_22_110107589.slx) <br> [Subtask 2](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29/task2mPAM_22_110107589.slx) | [View](Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29/Task%202%20-%20MPAM%20System%20Design%20%26%20Subtask%20-%202%20%5B110107589%5D.pdf) | 5 / 5 |
+| 4 | **Task 3** | Phase Shift Keying (PSK) | [Task 3](Project/Task%203%20-%20Phase%20Shift%20Keying%20%28PSK%29/task3.slx) <br> [Subtask 1](Project/Task%203%20-%20Phase%20Shift%20Keying%20%28PSK%29/subtask1_110107589.slx) <br> [Subtask 2](Project/Task%203%20-%20Phase%20Shift%20Keying%20%28PSK%29/subtask2_110107589.slx) | [View](Project/Task%203%20-%20Phase%20Shift%20Keying%20%28PSK%29/Task%203%20-%20Phase%20Shift%20Keying%20%5B110107589%5D.pdf) | 10 / 10 |
+| 5 | **Task 4** | Quadrature Amplitude Modulation (QAM) | [Task 4](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20%28MQAM%29/task_4.slx) <br> [Subtask 1](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20%28MQAM%29/task_4_subtask_1.slx) <br> [MAT File](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20%28MQAM%29/qam16signal.mat) | [View](Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20%28MQAM%29/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20%28QAM%29%20%5B110107589%5D.pdf) | 10 / 10 |
+| 6 | **Task 5** | Offset Quadrature Phase Shift Keying (OQPSK) | [Task 5](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20%28OQPSK%29/System_Design_OQPSK.slx) <br> [Subtask 1](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20%28OQPSK%29/Task5_Subtask_1.slx) <br> [Data File](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20%28OQPSK%29/oqpskdata.p) | [View](Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20%28OQPSK%29/task-5.pdf) | 10 / 10 |
 
 
 ---
@@ -195,6 +195,21 @@ A comprehensive archival log documenting pedagogical discourse across six module
 | 4 | **Digital Data Transmission** | [View](Lecture%20Notes/04%20-%20Digital%20Data%20Transmission.pdf) |
 | 5 | **Synchronization Techniques** | [View](Lecture%20Notes/05%20-%20Synchronization.pdf) |
 | 6 | **Introduction to Information Theory** | [View](Lecture%20Notes/06%20-%20Intro%20to%20Information%20Theory.pdf) |
+ 
+ ### Tutorials
+ 
+ A granular record of analytical problem-solving sessions and technical tutorials conducted during the **Winter 2024** session.
+ 
+ > [!NOTE]
+ > These tutorials represent the practical synthesis of communication theory, where complex signal analysis and modulation problems are decomposed into step-by-step mathematical solutions.
+ 
+ | # | Tutorial | Focus Area | Question Set | Step-by-Step Solution |
+ | :-: | :--- | :--- | :---: | :---: |
+ | 1 | **Tutorial 1** | Signals, Fourier Transform, and System Characterization | [View](Tutorials/tutorial-1.pdf) | [View](Tutorials/tutorial-1_solutions.pdf) |
+ | 2 | **Tutorial 2** | Analog-to-Digital Conversion and Quantization | [View](Tutorials/tutorial-2.pdf) | [View](Tutorials/tutorial-2_solutions.pdf) |
+ | 3 | **Tutorial 3** | Pulse Amplitude Modulation (PAM) and Line Coding | [View](Tutorials/tutorial-3.pdf) | [View](Tutorials/tutorial-3_solutions.pdf) |
+ | 4 | **Tutorial 4** | Advanced Modulation (PSK, QAM) and Error Performance | [View](Tutorials/tutorial-4.pdf) | [View](Tutorials/tutorial-4_solutions.pdf) |
+ | 5 | **Practice Set** | Comprehensive Problem Suite (ADC to Modulation) | — | [View](Tutorials/tutorial-5_practice_problems%2Bsolutions.pdf) |
 
 ---
 
@@ -298,7 +313,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   <!-- Footer Navigation -->
   [↑ Back to Top](#digital-communications)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Supplemental](#supplemental) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Certifications](#certifications) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Supplemental](#supplemental) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Certifications](#certifications) &nbsp;·&nbsp; [Simulink Projects](#simulink-projects) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Tutorials](#tutorials) &nbsp;·&nbsp; [Examinations](#examinations) &nbsp;·&nbsp; [Grades](#grades) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
