@@ -16,7 +16,7 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
   [![Program](https://img.shields.io/badge/Program-MEng%20Computer%20Engineering-FFCE00.svg)](https://www.uwindsor.ca/engineering/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
   **A comprehensive academic archive for Digital Communications (ELEC 8900), documenting technical proficiency in digital modulation techniques, signal processing, and communication system design within the Master of Engineering program.**
@@ -156,7 +156,7 @@ Technical solutions and system models developed to implement and simulate digita
 
 <div align="center">
 
-[![Projects](https://img.shields.io/badge/Projects-5-yellow.svg)](Project/) [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Simulink-orange.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+[![Projects](https://img.shields.io/badge/Projects-5-yellow.svg)](Project/) [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Simulink-8250DF.svg)](https://www.mathworks.com/products/matlab.html) [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
 </div>
 
@@ -328,3 +328,4 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
