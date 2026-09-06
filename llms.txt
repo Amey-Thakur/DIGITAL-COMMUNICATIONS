@@ -1,0 +1,40 @@
+# Digital Communications
+
+> ELEC 8900: Digital Communications [DC] | Semester IV | MEng Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: University of Windsor
+Programme: M.Eng Computer Engineering, Semester IV
+Course code: ELEC 8900
+Licence: CC BY 4.0, attribution required
+Repository created: 6 February 2024
+Work dated: 21 April 2024
+
+## What is in this repository
+
+- Homework, 10 files
+- Lecture Notes, 6 files
+- Notes, 1 file
+- Project, 25 files
+- Reference Books, 4 files
+- Supplemental, 3 files
+- Tutorials, 9 files
+- Course Syllabus.pdf
+- DC Grades.pdf
+- View My Classes - Winter 2024.pdf
+
+## Subject terms
+
+computer-engineering, digital-communications, digital-signal-processing,
+engineering, m-ary, master-of-engineering, matlab, meng, meng-ece,
+modulation, phase-shift-keying, pulse-amplitude-modulation,
+quadrature-amplitude-modulation, simulink, university-of-windsor,
+uwindsor
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS
+- Degree index, every subject and project: https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
